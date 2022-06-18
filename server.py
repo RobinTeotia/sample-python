@@ -6,7 +6,6 @@ Original file is located at
     https://colab.research.google.com/drive/1zN9tze7SE7cCIPr80Nx_jM9O31zxIyMr
 """
 
-!pip install jupyter-dash # Required for making plotly dashboard in Jupiter
 
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
